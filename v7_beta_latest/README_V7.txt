@@ -9,7 +9,7 @@ Features V7:
 
 Bugs in version V7:
 1. Text layout not inline after data deletion.
-2. Not all button is working.
+2. Not all buttons are working.
 
 
 Things To Do for next version V8:
